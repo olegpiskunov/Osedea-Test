@@ -15,12 +15,10 @@ sudo apt install npm
 ```
 3. Protractor should be installed.
 ```bash
-npm install -g protractor
+sudo npm install -g protractor
 ```
 4. Chrome browser should be installed.
 5. Internet Connection should be available.
-6. Extract node_modules.zip in \Osedea Test
-
 
 ------------------------------------
 Steps to execute e2e scripts
@@ -31,7 +29,6 @@ Steps to execute e2e scripts
 ```bash
 npm run e2e
 ```
-
 
 ------------------------------------
 Reports
