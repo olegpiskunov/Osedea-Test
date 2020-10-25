@@ -1,5 +1,5 @@
 # Protractor Test Framework
-Protractor Test Framework to perform basic angular testing using protractor
+Protractor Test Framework to perform basic angular/non angular testing using protractor
 
 ------------------------------------
 Prequisites
