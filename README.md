@@ -1,15 +1,15 @@
 # Protractor Test Framework
-Protractor Test Framework to perform basic angular/non angular testing using protractor
+PROTRACTOR is an automation and end-to-end behavior-driven testing tool that plays an important role in the Testing of AngularJS applications and works as a Solution integrator combining powerful technologies like Selenium, Jasmine, Web driver, etc. The purpose of Protractor Testing is not only to test AngularJS applications but also for writing automated regression tests for normal Web Applications as well.
 
 ------------------------------------
 Prequisites
 ------------------------------------
 
-1. NodeJS should installed.
+1. NodeJS should be installed.
 ```bash
 sudo apt install nodejs
 ```
-2. NPM should installed.
+2. NPM should be installed.
 ```bash
 sudo apt install npm
 ```
